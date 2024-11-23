@@ -10,11 +10,11 @@
                     </h1>
                     <p class="mx-auto text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">
                         <i class="fa fa-phone"></i>
-                        +998 99 999-99-99
+                        +998 99 350 06 09, +998 93 350 06 09
                     </p>
                     <p class="mx-auto text-gray-500 sm:max-w-md lg:text-xl md:max-w-3xl">
                         <i class="fa fa-envelope"></i>
-                        info@jmbm.uz
+                        00_bek94@mail.ru
                     </p>
                     <div class="relative flex flex-col sm:flex-row sm:space-x-4">
                         @if ($latest)
