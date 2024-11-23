@@ -53,7 +53,7 @@
             </div>
             <div class="grid grid-cols-2 gap-10">
                 <textarea name="keywords" rows="4" class="form-textarea rounded" placeholder="Kalit so'zlar"></textarea>
-                <textarea name="annotations" rows="4" class="form-textarea rounded" placeholder="Anotatsiya"></textarea>
+                <textarea name="annotations" rows="4" class="form-textarea rounded" placeholder="Annotatsiya"></textarea>
             </div>
             <div class="grid">
                 <input type="file" name="file"

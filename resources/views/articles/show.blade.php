@@ -28,7 +28,7 @@
                     </form>
                 </div>
             @endauth
-            <p class="mb-3"><b>Anotatsiya:</b> {{ $article->annotations }}</p>
+            <p class="mb-3"><b>Annotatsiya:</b> {{ $article->annotations }}</p>
             <p class="mb-3"><b>Kalit so'zlar:</b> {{ $article->keywords }}</p>
             <div class="flex gap-4 flex-wrap mb-3">
                 <p><i class="fa fa-user-tie"></i> <b>Mualliflar:</b> {{ $article->author }}</p>
