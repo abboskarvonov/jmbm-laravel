@@ -15,7 +15,7 @@
                 </div>
             @endforeach
         </nav>
-        <div class="flex justify-center mt-8 space-x-6">
+        {{-- <div class="flex justify-center mt-8 space-x-6">
             <a href="#" class="text-gray-400 hover:text-gray-100">
                 <i class="fa-brands fa-telegram fa-xl"></i>
             </a>
@@ -25,7 +25,7 @@
             <a href="#" class="text-gray-400 hover:text-gray-100">
                 <i class="fa fa-envelope fa-xl"></i>
             </a>
-        </div>
+        </div> --}}
         <p class="mt-8 text-base leading-6 text-center text-gray-400">
             &copy; 2024 - {{ date('Y') }}, Journal of marketing, business and management. All rights reserved.
         </p>

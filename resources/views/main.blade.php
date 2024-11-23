@@ -44,7 +44,7 @@
                 <h1 class="text-2xl font-semibold text-indigo-600 border-b-2 border-indigo-600 pb-2 mb-10">Jurnal
                     sonlari
                 </h1>
-                <div class="grid grid-cols-2 gap-x-10 gap-y-6">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-x-10 gap-y-6">
                     @foreach ($journals as $journal)
                         <div class="grid gap-2 shadow-sm shadow-indigo-600 bg-gray-100 rounded p-4">
                             <a href="{{ route('archive.show', ['archive' => $journal->slug]) }}"
